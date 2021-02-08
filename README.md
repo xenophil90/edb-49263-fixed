@@ -1,4 +1,4 @@
-# edb-49263-fixed
+# edb-49263-fixed - GitLab 11.4.7 - Authenticated Remote Code Execution
 Fixed version of the Python script to exploit CVE-2018-19571 and CVE-2018-19585 (GitLab 11.4.7 - Authenticated Remote Code Execution) that is available at https://www.exploit-db.com/exploits/49263 (Python 3.9).
 
 ## Usage
