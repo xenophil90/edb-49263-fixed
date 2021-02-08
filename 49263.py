@@ -1,6 +1,6 @@
 # Exploit Title: GitLab 11.4.7 Authenticated Remote Code Execution (No Interaction Required)
 # Date: 15th December 2020 (Modification date: 08th January 2021)
-# Exploit Author: Mohin Paramasivam (Shad0wQu35t), modified by xenophil90 (Phil Krämer)
+# Exploit Author: Mohin Paramasivam (Shad0wQu35t), modified by Phil Krämer (xenophil90)
 # Software Link: https://about.gitlab.com/
 # POC: https://liveoverflow.com/gitlab-11-4-7-remote-code-execution-real-world-ctf-2018/
 # Tested on: GitLab 11.4.7 CE
